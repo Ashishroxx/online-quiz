@@ -1,2 +1,2 @@
 # online-quiz
-online quiz for developing for software skills.
+online quiz for developing your software skills.
